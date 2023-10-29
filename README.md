@@ -1,8 +1,7 @@
-# chef-Note - Your Ultimate Recipe Source 🍳
+# chef-Vibes - Your Ultimate Recipe Source 🍳
 
-![chef-Note Logo](link-to-your-logo.png)
 
-Welcome to chef-Note, your go-to platform for discovering thousands of delicious recipes for free! Whether you're a seasoned chef or a home cook looking to try something new, chef-Note has you covered. With a wide range of features and a user-friendly interface, you'll find cooking inspiration and convenience like never before.
+Welcome to chef-Vibes, your go-to platform for discovering thousands of delicious recipes for free! Whether you're a seasoned chef or a home cook looking to try something new, chef-Note has you covered. With a wide range of features and a user-friendly interface, you'll find cooking inspiration and convenience like never before.
 
 ## Technologies Used
 
@@ -68,13 +67,13 @@ Follow these steps to get chef-Note up and running on your local machine:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/chef-Note.git
+   git clone https://github.com/your username/chef-vibes-client.git
    ```
 
 2. Install dependencies:
 
    ```
-   cd chef-Note
+   cd chef-vibes-client
    npm install
    ```
 
@@ -89,7 +88,7 @@ Follow these steps to get chef-Note up and running on your local machine:
    npm run dev
    ```
 
-5. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to see chef-Note in action!
+5. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to see chef-Vibes in action!
 
 ## Contributing
 
@@ -97,13 +96,13 @@ We welcome contributions from the community. If you'd like to contribute to chef
 
 ## License
 
-chef-Note is open-source software licensed under the [MIT License](LICENSE).
+chef-vibes is open-source software licensed under the [MIT License](LICENSE).
 
 ## Contact Us
 
 If you have any questions, feedback, or issues, feel free to reach out to us at [your-email@example.com](mailto:your-email@example.com).
 
-Happy cooking with chef-Note! 🍽️👩‍🍳👨‍🍳
+Happy cooking with chef-Vibes! 🍽️👩‍🍳👨‍🍳
 
 ---
 
